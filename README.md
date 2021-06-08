@@ -17,7 +17,7 @@
 
 using namespace std;
 
-static void main (){
+void main (){
     cout << "Welcome to my profile! Thanks to visit." << endl;
 }
 
