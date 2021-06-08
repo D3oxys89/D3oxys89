@@ -16,8 +16,8 @@
 #include <iostream>
 
 using namespace std;
-
-void main (){
+    
+int main (void){
     cout << "Welcome to my profile! Thanks to visit." << endl;
 }
 
