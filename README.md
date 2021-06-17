@@ -17,6 +17,7 @@
  
 int main(void) {
     printf("Welcome to my profile! Thanks to visit.\n")
+    return 0;
 }
 
 ```
