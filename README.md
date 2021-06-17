@@ -5,20 +5,18 @@
 <p align = "center">
 
 <img src = "https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" width="70" height="70">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="70" height="70">
+<img src = "https://img.icons8.com/color/452/c-programming.png" width="80" height="80">
 <img src = "https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" width="70" height="70"><br>
 
 🧪 My Twitter [here](https://twitter.com/D3oxys89).<br><br>
 🧪 Coffe Binary [here](https://discord.gg/H8HcSdnAmp).
 
-```c++
+```c
 
-#include <iostream>
-
-using namespace std;
-    
-int main (void){
-    cout << "Welcome to my profile! Thanks to visit." << endl;
+#include <stdio.h>
+ 
+int main(void) {
+    printf("Welcome to my profile! Thanks to visit.\n")
 }
 
 ```
